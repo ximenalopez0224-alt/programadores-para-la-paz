@@ -10,3 +10,15 @@ estado
 
 Propósito:
 Guardar las causas comunitarias registradas por los ciudadanos para facilitar su seguimiento y participación.
+
+Entidad: Apoyo
+
+Campos principales:
+
+id
+causa_id
+usuario
+fecha
+
+Propósito:
+Registrar los apoyos que recibe cada causa y llevar un control de la participación de la comunidad.
