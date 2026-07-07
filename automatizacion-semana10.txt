@@ -1,0 +1,21 @@
+Evento que activa el flujo:
+
+Cuando un ciudadano registra una nueva incidencia en el sistema.
+
+Acción:
+
+n8n envía automáticamente un mensaje al grupo de Telegram del equipo de coordinación.
+
+Mensaje enviado:
+
+"Nuevo reporte recibido. Ingresa al sistema para revisarlo y asignar un responsable."
+
+Información que no debe enviarse:
+
+Nombres completos.
+Documentos de identidad.
+Direcciones.
+Teléfonos.
+Correos electrónicos.
+Contraseñas.
+Información personal o sensible.
