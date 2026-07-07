@@ -1,0 +1,12 @@
+Entidad: Causa
+
+Campos principales:
+
+id
+titulo
+descripcion
+fecha
+estado
+
+Propósito:
+Guardar las causas comunitarias registradas por los ciudadanos para facilitar su seguimiento y participación.
