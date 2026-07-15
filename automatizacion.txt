@@ -1,0 +1,15 @@
+Automatización con n8n o Telegram
+
+Evento:
+Se registra una nueva causa en la plataforma.
+
+Mensaje:
+"Nueva causa creada en la plataforma. Revísela para conocer sus detalles."
+
+Información que no debe enviarse:
+- Cédulas.
+- Teléfonos.
+- Direcciones.
+- Correos electrónicos.
+- Comentarios sensibles.
+- Cualquier otro dato personal.
